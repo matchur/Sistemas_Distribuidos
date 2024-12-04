@@ -69,7 +69,7 @@ Após o início da aplicação, ver o passo [Executando o projeto](#executando-o
 comandos para que o servidor possa processar, então é só  informá-los no ```bash```. Os comandos que cada cliente e servidor 
 processam variam de acordo com o exercício para ver quais são atendidos basta olhar no *pdf* da atividade 
 
-**Atividade 01 - TCP - v2.pdf**.
+**Atividade 01- TCP - v2.pdf**.
 
 ```bash
 # No cliente do Exercicio1 execute:
